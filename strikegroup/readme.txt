@@ -1,11 +1,15 @@
-Why named Strike Group? Strike Group aims to widen the options given by ship design choices, inspiration comes from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1345239366]'Tactical Ship Sections'[/url]. The difference is:
+Why named Strike Group? Strike Group aims to widen the options given by ship design choices, to provide greater range and firepower.
 
-No more technology to unlock.
-Colossus is no longer helpless in the face of enemies.
-Defensive Platform can use extra_large weapons but relatively reduce protection.
-Original design of the Corvettes and Battleships is very good, they don't need to change.
+Inspiration comes from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1345239366]'Tactical Ship Sections'[/url]. The difference is:
+
+No need for technology research.
+The Colossus no longer appears to be helpless in the face of enemy ships.
+At the expense of protection, the Defensive Platform can use extra_large weapons.
+Titan as a super battleship, should support more extra_large weapons.
 
 There may be naming conflicts on compatibility issues.
+
+Recommend subscription [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1885775216&searchtext=]Extra Ship Components 3.0 [2.4][/url] for a better experience.
 
 ----------
 
