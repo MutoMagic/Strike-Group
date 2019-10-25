@@ -13,7 +13,7 @@ Recommend subscription [url=https://steamcommunity.com/sharedfiles/filedetails/?
 
 ----------
 
-Advanced Jump Drives (2.4+)
+Advanced Jump Drives (2.4+) Built-in
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1778385433]Advanced Jump Drives(2.3.*)[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=728648312]Advanced Jump Drives (2.2+)[/url]
 
