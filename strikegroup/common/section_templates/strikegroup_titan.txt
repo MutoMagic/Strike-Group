@@ -3,7 +3,7 @@
 #BOW
 
 ship_section_template = {
-	key = "TITAN_MID_E4"
+	key = "TITAN_MID_X4"
 	ship_size = titan
 	fits_on_slot = mid
 	should_draw_components = yes
@@ -48,7 +48,7 @@ ship_section_template = {
 #STERN
 
 ship_section_template = {
-	key = "TITAN_STERN_E2"
+	key = "TITAN_STERN_X2"
 	ship_size = titan
 	fits_on_slot = stern
 	should_draw_components = yes

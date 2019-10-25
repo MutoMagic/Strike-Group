@@ -5,7 +5,7 @@
 ##################
 
 ship_section_template = {
-	key = "HEAVY_MILITARY_STATION_SECTION_E1"
+	key = "HEAVY_MILITARY_STATION_SECTION_X1"
 	ship_size = military_station_small
 	ship_size = military_station_medium
 	
